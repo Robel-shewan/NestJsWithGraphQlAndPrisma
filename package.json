@@ -52,7 +52,7 @@
     "docker:test:run": "docker-compose -f docker-compose.test.yml run --rm nest-api yarn test"
   },
   "dependencies": {
-    "@nestjs-modules/mailer": "1.6.0",
+    "@nestjs-modules/mailer": "1.8.1",
     "@nestjs/common": "7.6.15",
     "@nestjs/config": "0.6.3",
     "@nestjs/core": "7.6.15",
